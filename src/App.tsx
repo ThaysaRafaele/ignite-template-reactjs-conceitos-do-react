@@ -1,4 +1,3 @@
-import React from 'react';
 import { TaskList } from './components/TaskList'
 import { Header } from "./components/Header";
 import './styles/global.scss'

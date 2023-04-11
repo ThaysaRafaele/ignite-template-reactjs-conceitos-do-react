@@ -1,7 +1,5 @@
 import { useState } from 'react'
 
-import React from 'react';
-
 import '../styles/tasklist.scss'
 
 import { FiTrash, FiCheckSquare } from 'react-icons/fi'
