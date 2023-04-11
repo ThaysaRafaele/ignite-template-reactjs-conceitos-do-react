@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+    "target": "ES5",
+    "module": "CommonJS",
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
     "allowSyntheticDefaultImports": true,
